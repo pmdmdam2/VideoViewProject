@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoViewProject</string>
+    <string name="permiso_denegado">No es posible acceder a la memoria interna</string>
+</resources>
